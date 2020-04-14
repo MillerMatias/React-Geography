@@ -1,1 +1,0 @@
-﻿CKEDITOR.plugins.setLang("collapsetoolbar","en-gb",{moreOptions:"More options",hideOptions:"Hide options",moreOptionsToolTip:"Show more edit options",hideOptionsToolTip:"Hide edit options"});
