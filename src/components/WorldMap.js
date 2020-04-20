@@ -36,7 +36,10 @@ class WorldMap extends Component {
                   geography={geography}
                   projection={projection}
                   
-                  onMouseEnter={this.props.GetInfo}
+                  
+                  onMouseEnter= {this.props.GetInfo}
+                  
+                  
                   onMouseOut={this.props.HideInfo}
                   
                   style={{

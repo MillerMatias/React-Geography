@@ -92,7 +92,7 @@ class Map extends Component {
        </div>
       
       ) : (
-        console.log("hi there")
+        console.log(" ")
         
       )}    
 
